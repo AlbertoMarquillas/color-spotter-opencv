@@ -67,7 +67,7 @@ color-spotter-opencv/
 
 ```powershell
 # Clone the repository
-git clone https://github.com/<your-username>/color-spotter-opencv.git
+git clone https://github.com/AlbertoMarquillas/color-spotter-opencv.git
 cd color-spotter-opencv
 
 # Create virtual environment
